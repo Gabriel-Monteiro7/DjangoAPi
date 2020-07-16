@@ -1,6 +1,6 @@
 
 # [](<[https://github.com/Gabriel-Monteiro7/DjangoAPi](https://github.com/Gabriel-Monteiro7/DjangoAPi)>)  Django Api
-## [](<[https://github.com/Gabriel-Monteiro7/UserApiNode](https://github.com/Gabriel-Monteiro7/UserApiNode)#Descrição>)Descrição
+## [](<[https://github.com/Gabriel-Monteiro7/DjangoAPi](https://github.com/Gabriel-Monteiro7/DjangoAPi)#Descrição>)Descrição
 
 Api desenvolvida para simular um sistema de lista de tarefas (ToDo), onde o usuário possa criar, excluir ou concluir uma tarefa. O usuário deverá fazer login na aplicação com um email e uma senha. 
 
@@ -22,10 +22,10 @@ Para facilitar os teste utilize o Insominia que possui todas as rotas utilizadas
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Django%20Api&uri=https%3A%2F%2Fgithub.com%2FGabriel-Monteiro7%2FDjangoAPi%2Fblob%2Fmaster%2FInsomnia.json)
 ```
 # Clone o repositório
-git clone git@github.com:Gabriel-Monteiro7/DjangoAPi.git
+	git clone git@github.com:Gabriel-Monteiro7/DjangoAPi.git
 
 # Vá para o diretório principal
-cd DjangoAPi
+	cd DjangoAPi
 ```
 
 ```
@@ -75,9 +75,14 @@ cd DjangoAPi
 		}
 	}
 	
+# Agora vamos criar um ambiente virtual e ativa-lo
 
-# Agora vamos ativar o ambiente virtual que criamos 
+	python3 -m venv .
+
 	. bin/activate
+
+# Instalar as Dependência
+	pip install -r requirements.tx
 
 # Gerar e executar as migrations
 
