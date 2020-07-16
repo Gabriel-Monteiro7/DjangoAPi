@@ -34,15 +34,12 @@ Para facilitar os teste utilize o Insominia que possui todas as rotas utilizadas
 # Inicie o Docker compose para usar o Banco Postgres
 	docker-compose up -d
 
-# Inicie o Docker compose para usar o Banco Postgres
-	docker-compose up -d
-
 # running on port 5433
 
 # Credenciais configuradas no Docker
 
 	database:  "management",
-	user:  "managementr",
+	user:  "management",
 	password:  "root",
 	port:  "5433"
 
