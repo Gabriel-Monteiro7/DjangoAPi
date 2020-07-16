@@ -43,7 +43,7 @@ Para facilitar os teste utilize o Insominia que possui todas as rotas utilizadas
 	password:  "root",
 	port:  "5433"
 
-#Credenciais configuradas do DataBase
+#Credenciais configuradas no DataBase
 
 	DATABASES = {
 		'default': {
@@ -79,7 +79,7 @@ Para facilitar os teste utilize o Insominia que possui todas as rotas utilizadas
 	. bin/activate
 
 # Instalar as Dependência
-	pip install -r requirements.tx
+	pip install -r requirements.txt
 
 # Gerar e executar as migrations
 
