@@ -19,7 +19,7 @@ class Task(Base):
     class Meta:
         verbose_name: "Task"
         verbose_name_plural: "Tasks"
-        unique_together = ['name']
+        # unique_together = ['name']
         ordering = ['id']
 
     def __str__(self):
