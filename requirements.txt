@@ -7,7 +7,7 @@ cryptography==3.2
 Django==2.2.13
 django-filter==2.3.0
 django-templated-mail==1.1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.4.0
 djoser==2.0.3
 dynaconf==3.0.0
