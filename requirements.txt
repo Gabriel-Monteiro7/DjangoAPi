@@ -14,7 +14,7 @@ dynaconf==3.0.0
 hvac==0.10.4
 idna==2.10
 importlib-metadata==1.7.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 knox==0.1.0
 loguru==0.5.1
 Markdown==3.2.2
