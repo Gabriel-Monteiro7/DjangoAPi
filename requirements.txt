@@ -30,5 +30,5 @@ requests==2.24.0
 shortuuid==1.0.1
 six==1.15.0
 sqlparse==0.3.1
-urllib3==1.25.9
+urllib3==1.26.5
 zipp==3.1.0
