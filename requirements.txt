@@ -19,7 +19,7 @@ knox==0.1.0
 loguru==0.5.1
 Markdown==3.2.2
 MarkupSafe==1.1.1
-paramiko==2.7.1
+paramiko==2.10.1
 pkg-resources==0.0.0
 psycopg2-binary==2.8.5
 pycparser==2.20
